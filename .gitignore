@@ -1,0 +1,16 @@
+/public/assets/adminlte/*
+!/public/assets/adminlte/.gitkeep
+
+/public/uploads/avatars/*
+!/public/uploads/avatars/index.php
+/public/uploads/doctor_photos/*
+!/public/uploads/doctor_photos/index.php
+/public/uploads/prescriptions/*
+!/public/uploads/prescriptions/index.php
+!/public/uploads/prescriptions/.htaccess
+
+.claude/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
